@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Demo Streanlit App
 
-Description of the app ...
+Build web app with Streanlit.
 
 ## Demo App
 
