@@ -1,6 +1,6 @@
-# Demo Streanlit App
+# Demo Streamlit App
 
-Build web app with Streanlit.
+Build web app with Streamlit.
 
 ## Demo App
 
